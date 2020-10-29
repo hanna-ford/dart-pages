@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://hanna-ford.github.io/dart-pages/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://hanna-ford.github.io/dart-pages/</loc>
+</url>
+<url>
+<loc>https://hanna-ford.github.io/dart-pages/about-dart/</loc>
+<lastmod>2020-10-29T11:56:43-05:00</lastmod>
+</url>
+<url>
+<loc>https://hanna-ford.github.io/dart-pages/dart-monthly-webinar-welcome-to-dart-presented-by-dr-jackson-cothren-oct-28-2020/</loc>
+<lastmod>2020-10-29T12:40:08-05:00</lastmod>
+</url>
+<url>
+<loc>https://hanna-ford.github.io/dart-pages/faqs-administrative-guidance-for-dart-researchers/</loc>
+<lastmod>2020-10-29T12:53:28-05:00</lastmod>
+<image:image>
+<image:loc>https://hanna-ford.github.io/dart-pages/media\posts\3/project-organization-chart-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://hanna-ford.github.io/dart-pages/monthly-webinar-schedule/</loc>
+<lastmod>2020-10-29T12:37:04-05:00</lastmod>
+</url>
+</urlset>
