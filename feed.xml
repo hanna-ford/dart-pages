@@ -3,7 +3,7 @@
     <title>DART</title>
     <link href="https://hanna-ford.github.io/dart-pages/feed.xml" rel="self" />
     <link href="https://hanna-ford.github.io/dart-pages" />
-    <updated>2020-10-29T18:42:02-05:00</updated>
+    <updated>2020-10-29T19:44:48-05:00</updated>
     <author>
         <name>Hanna</name>
     </author>
@@ -102,7 +102,7 @@
         </content>
     </entry>
     <entry>
-        <title>FAQs // Administrative Guidance for DART Researchers</title>
+        <title>FAQs</title>
         <author>
             <name>Hanna</name>
         </author>
@@ -110,7 +110,7 @@
         <id>https://hanna-ford.github.io/dart-pages/faqs-administrative-guidance-for-dart-researchers/</id>
             <category term="FAQs"/>
 
-        <updated>2020-10-29T12:53:28-05:00</updated>
+        <updated>2020-10-29T18:47:54-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -141,7 +141,7 @@
 <p>This is not a grant. This is a cooperative agreement and is performance-based. Per DART award Terms and Conditions, NSF reserves the right to phase-out, suspend or terminate this cooperative agreement at any time should progress be deemed unsatisfactory. Both the project as a whole and the performance of individuals are evaluated annually.</p>
 <p><br><strong>Eligible organizations and institutions:</strong> Funded collaborations are limited to those within the EPSCoR jurisdiction (Arkansas). For more details, please see: NSF 19-580, Section II. Program Description, <a href="https://www.nsf.gov/pubs/2019/nsf19580/nsf19580.htm#pgm_desc_txt" target="_blank" rel="noopener noreferrer">Item B. Eligible Organizations and Information</a>. </p>
 <h2 id="mcetoc_1elqjmhou1o">Project Organizational Structure</h2>
-<figure class="post__image"><img loading="lazy"  src="https://hanna-ford.github.io/dart-pages/media/posts/3/project-organization-chart-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hanna-ford.github.io/dart-pages/media/posts/3/responsive/project-organization-chart-2-xs.png 300w ,https://hanna-ford.github.io/dart-pages/media/posts/3/responsive/project-organization-chart-2-sm.png 480w ,https://hanna-ford.github.io/dart-pages/media/posts/3/responsive/project-organization-chart-2-md.png 768w"  alt="" width="3840" height="2160"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://hanna-ford.github.io/dart-pages/media/posts/3/project-organization-chart-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hanna-ford.github.io/dart-pages/media/posts/3/responsive/project-organization-chart-2-xs.png 300w ,https://hanna-ford.github.io/dart-pages/media/posts/3/responsive/project-organization-chart-2-sm.png 480w ,https://hanna-ford.github.io/dart-pages/media/posts/3/responsive/project-organization-chart-2-md.png 768w"  alt="" width="900" height="506"></figure>
 <h2 id="mcetoc_1elqjodgh2v">Roles and Responsibilities</h2>
 <h3 id="mcetoc_1elqjodgh30">NSF-related Project Roles</h3>
 <ul>
@@ -215,7 +215,7 @@
         <link href="https://hanna-ford.github.io/dart-pages/about-dart/"/>
         <id>https://hanna-ford.github.io/dart-pages/about-dart/</id>
 
-        <updated>2020-10-29T18:42:02-05:00</updated>
+        <updated>2020-10-29T19:44:48-05:00</updated>
             <summary>
                 <![CDATA[
                     The growing array of tools - powerful high-level programming languages, distributed data storage and computation, visualization tools, statistical modeling, and&hellip;
@@ -231,7 +231,7 @@
 </ul>
 <p>DART research will systematically investigate key aspects of these three barriers and develop novel, integrated solutions to address them by operating as a true, multi-institution, multi-disciplinary data science research center, in which faculty and students from campuses across the state work together on targeted problems important to the research community and the economy of Arkansas.</p>
 <h4>Participating Institutions | <span style="font-size: 16px; color: dimgrey;"> Project Component: </span><span style="font-size: 16px; color: #ed5252;"><i class="fas fa-square"></i> Education </span><span style="font-size: 16px; color: #a7c639;"><i class="fas fa-square"></i> Research </span><span style="font-size: 16px; color: #129dcd;"><i class="fas fa-square"></i> Education and Research </span></h4>
-<div class="container-fluid"><div class="post__iframe"><iframe loading="lazy" width="760" height="500" frameborder="0" scrolling="no" marginheight="10px;" marginwidth="0" title="DART Collaborating Institutions" src="https://uark.maps.arcgis.com/apps/Embed/index.html?webmap=816ca6944c734cbb920b04cd37791b14&amp;extent=-97.9509,32.0503,-87.0964,37.5362&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;disable_scroll=true&amp;theme=light"></iframe></div></div>
+<div class="container-fluid"><div class="post__iframe"><iframe loading="lazy" width="900" height="592" frameborder="0" scrolling="no" marginheight="10px;" marginwidth="0" title="DART Collaborating Institutions" src="https://uark.maps.arcgis.com/apps/Embed/index.html?webmap=816ca6944c734cbb920b04cd37791b14&amp;extent=-97.9509,32.0503,-87.0964,37.5362&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;disable_scroll=true&amp;theme=light"></iframe></div></div>
             ]]>
         </content>
     </entry>
