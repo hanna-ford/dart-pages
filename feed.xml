@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>DART</title>
-    <link href="https://hanna-ford.github.io/dart-pages/feed.xml" rel="self" />
-    <link href="https://hanna-ford.github.io/dart-pages" />
+    <link href="https://dart.cast.uark.edu/feed.xml" rel="self" />
+    <link href="https://dart.cast.uark.edu" />
     <updated>2020-10-30T17:56:18-05:00</updated>
     <author>
         <name>Hanna</name>
     </author>
-    <id>https://hanna-ford.github.io/dart-pages</id>
+    <id>https://dart.cast.uark.edu</id>
 
     <entry>
         <title>Stay in Touch with DART</title>
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://hanna-ford.github.io/dart-pages/stay-in-touch-with-dart/"/>
-        <id>https://hanna-ford.github.io/dart-pages/stay-in-touch-with-dart/</id>
+        <link href="https://dart.cast.uark.edu/stay-in-touch-with-dart/"/>
+        <id>https://dart.cast.uark.edu/stay-in-touch-with-dart/</id>
 
         <updated>2020-10-30T17:53:27-05:00</updated>
             <summary>
@@ -35,8 +35,8 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://hanna-ford.github.io/dart-pages/dart-monthly-webinar-welcome-to-dart-presented-by-dr-jackson-cothren-oct-28-2020/"/>
-        <id>https://hanna-ford.github.io/dart-pages/dart-monthly-webinar-welcome-to-dart-presented-by-dr-jackson-cothren-oct-28-2020/</id>
+        <link href="https://dart.cast.uark.edu/dart-monthly-webinar-welcome-to-dart-presented-by-dr-jackson-cothren-oct-28-2020/"/>
+        <id>https://dart.cast.uark.edu/dart-monthly-webinar-welcome-to-dart-presented-by-dr-jackson-cothren-oct-28-2020/</id>
             <category term="DART Webinars"/>
 
         <updated>2020-10-29T12:40:08-05:00</updated>
@@ -61,8 +61,8 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://hanna-ford.github.io/dart-pages/monthly-webinar-schedule/"/>
-        <id>https://hanna-ford.github.io/dart-pages/monthly-webinar-schedule/</id>
+        <link href="https://dart.cast.uark.edu/monthly-webinar-schedule/"/>
+        <id>https://dart.cast.uark.edu/monthly-webinar-schedule/</id>
             <category term="DART Webinars"/>
 
         <updated>2020-10-30T17:54:35-05:00</updated>
@@ -83,7 +83,7 @@
 <ul>
 <li>Webinars will be hosted using the University of Arkansas Zoom account which requires that you have a Zoom account to join (free accounts are available <a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2Ffreesignup%2F&amp;data=04%7C01%7Chlford%40uark.edu%7Ccb099b72d17b4c7ecb9808d87a890427%7C79c742c4e61c4fa5be89a3cb566a80d1%7C0%7C0%7C637394076780531346%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=aYE0ijsuZDFgIsdpedinrNjXqMZYeh3GmH3RxT9G4uU%3D&amp;reserved=0" originalsrc="https://zoom.us/freesignup/" shash="f9SCi3kayPGuy1zCNaO7qWZQWDFZ2B8OeKsA8U+mkWDuzQEtdazdxl6l5Y7SL36V6/CNDokXf/FrPAMvbKHyuALZEGfE2u2LMVaPp5VeqpbUotV9ud3IlTIytWv0rRufmJpxfDY4LlTyx2INg8/wga8A2c7fpIfSQGZAwb6/c+o=" id="LPlnk">https://zoom.us/freesignup/</a>).</li>
 <li data-ogsb="white"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">All webinars will be recorded and made available after presentation. Links will be posted on this site.</span></li>
-<li data-ogsb="white">If you would like to receive notices for future webinars are not a DART student or faculty member, sign up <a href="https://hanna-ford.github.io/dart-pages/stay-in-touch-with-dart/">here</a>.</li>
+<li data-ogsb="white">If you would like to receive notices for future webinars are not a DART student or faculty member, sign up <a href="https://dart.cast.uark.edu/stay-in-touch-with-dart/">here</a>.</li>
 </ul>
 <p data-ogsb="white"> </p>
 <h2 data-ogsb="white"><strong><span data-ogsc="black">2020</span></strong></h2>
@@ -138,8 +138,8 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://hanna-ford.github.io/dart-pages/faqs-administrative-guidance-for-dart-researchers/"/>
-        <id>https://hanna-ford.github.io/dart-pages/faqs-administrative-guidance-for-dart-researchers/</id>
+        <link href="https://dart.cast.uark.edu/faqs-administrative-guidance-for-dart-researchers/"/>
+        <id>https://dart.cast.uark.edu/faqs-administrative-guidance-for-dart-researchers/</id>
             <category term="FAQs"/>
 
         <updated>2020-10-29T18:47:54-05:00</updated>
@@ -173,7 +173,7 @@
 <p>This is not a grant. This is a cooperative agreement and is performance-based. Per DART award Terms and Conditions, NSF reserves the right to phase-out, suspend or terminate this cooperative agreement at any time should progress be deemed unsatisfactory. Both the project as a whole and the performance of individuals are evaluated annually.</p>
 <p><br><strong>Eligible organizations and institutions:</strong> Funded collaborations are limited to those within the EPSCoR jurisdiction (Arkansas). For more details, please see: NSF 19-580, Section II. Program Description, <a href="https://www.nsf.gov/pubs/2019/nsf19580/nsf19580.htm#pgm_desc_txt" target="_blank" rel="noopener noreferrer">Item B. Eligible Organizations and Information</a>. </p>
 <h2 id="mcetoc_1elqjmhou1o">Project Organizational Structure</h2>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://hanna-ford.github.io/dart-pages/media/posts/3/project-organization-chart-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hanna-ford.github.io/dart-pages/media/posts/3/responsive/project-organization-chart-2-xs.png 300w ,https://hanna-ford.github.io/dart-pages/media/posts/3/responsive/project-organization-chart-2-sm.png 480w ,https://hanna-ford.github.io/dart-pages/media/posts/3/responsive/project-organization-chart-2-md.png 768w"  alt="" width="900" height="506"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://dart.cast.uark.edu/media/posts/3/project-organization-chart-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://dart.cast.uark.edu/media/posts/3/responsive/project-organization-chart-2-xs.png 300w ,https://dart.cast.uark.edu/media/posts/3/responsive/project-organization-chart-2-sm.png 480w ,https://dart.cast.uark.edu/media/posts/3/responsive/project-organization-chart-2-md.png 768w"  alt="" width="900" height="506"></figure>
 <h2 id="mcetoc_1elqjodgh2v">Roles and Responsibilities</h2>
 <h3 id="mcetoc_1elqjodgh30">NSF-related Project Roles</h3>
 <ul>
@@ -244,8 +244,8 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://hanna-ford.github.io/dart-pages/about-dart/"/>
-        <id>https://hanna-ford.github.io/dart-pages/about-dart/</id>
+        <link href="https://dart.cast.uark.edu/about-dart/"/>
+        <id>https://dart.cast.uark.edu/about-dart/</id>
 
         <updated>2020-10-30T17:56:18-05:00</updated>
             <summary>
