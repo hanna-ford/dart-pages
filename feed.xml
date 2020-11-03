@@ -3,7 +3,7 @@
     <title>DART</title>
     <link href="https://dart.cast.uark.edu/feed.xml" rel="self" />
     <link href="https://dart.cast.uark.edu" />
-    <updated>2020-10-30T17:56:18-05:00</updated>
+    <updated>2020-11-03T08:40:19-06:00</updated>
     <author>
         <name>Hanna</name>
     </author>
@@ -138,11 +138,11 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://dart.cast.uark.edu/faqs-administrative-guidance-for-dart-researchers/"/>
-        <id>https://dart.cast.uark.edu/faqs-administrative-guidance-for-dart-researchers/</id>
+        <link href="https://dart.cast.uark.edu/faqs/"/>
+        <id>https://dart.cast.uark.edu/faqs/</id>
             <category term="FAQs"/>
 
-        <updated>2020-10-29T18:47:54-05:00</updated>
+        <updated>2020-11-03T08:40:19-06:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
