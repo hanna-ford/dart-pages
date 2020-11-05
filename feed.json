@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://dart.cast.uark.edu/dart-annual-all-hands-meeting/",
-            "url": "https://dart.cast.uark.edu/dart-annual-all-hands-meeting/",
+            "id": "https://dart.cast.uark.edu/annual-meeting/",
+            "url": "https://dart.cast.uark.edu/annual-meeting/",
             "title": "DART Annual All-hands Meeting",
             "summary": "The Annual All-hands Meeting and Poster Competition should be attended by all project faculty, students, industry partners, administrative committee members,&hellip;",
             "content_html": "<p>The Annual All-hands Meeting and Poster Competition should be attended by all project faculty, students, industry partners, administrative committee members, evaluators, and external advisory board members.</p>\n<p>The annual meeting provides an opportunity for the project members to share their progress with the External Advisory Board and the Industry Advisory Board, as well as members of the Science Advisory Committee.</p>\n<p>The year 1 Annual Meeting will take place over two days during May 2021. </p>",
@@ -23,7 +23,7 @@
                    "Events"
             ],
             "date_published": "2020-11-05T10:06:20-06:00",
-            "date_modified": "2020-11-05T13:01:31-06:00"
+            "date_modified": "2020-11-05T13:05:32-06:00"
         },
         {
             "id": "https://dart.cast.uark.edu/stay-in-touch-with-dart/",
