@@ -3,7 +3,7 @@
     <title>DART</title>
     <link href="https://dart.cast.uark.edu/feed.xml" rel="self" />
     <link href="https://dart.cast.uark.edu" />
-    <updated>2020-11-05T16:11:53-06:00</updated>
+    <updated>2020-11-05T16:16:54-06:00</updated>
     <author>
         <name>Hanna</name>
     </author>
@@ -16,10 +16,9 @@
         </author>
         <link href="https://dart.cast.uark.edu/dart-webinar-2020-nov-18/"/>
         <id>https://dart.cast.uark.edu/dart-webinar-2020-nov-18/</id>
-            <category term="Events"/>
             <category term="DART Webinars"/>
 
-        <updated>2020-11-05T16:11:53-06:00</updated>
+        <updated>2020-11-05T16:16:54-06:00</updated>
             <summary>
                 <![CDATA[
                     Title: Welcome to DART Presenter: Jackson Cothren Date presented: November 18, 2020 Recording and slides will be made available after&hellip;
@@ -54,7 +53,7 @@
         <id>https://dart.cast.uark.edu/annual-meeting/</id>
             <category term="Events"/>
 
-        <updated>2020-11-05T13:05:32-06:00</updated>
+        <updated>2020-11-05T16:16:29-06:00</updated>
             <summary>
                 <![CDATA[
                     The Annual All-hands Meeting and Poster Competition should be attended by all project faculty, students, industry partners, administrative committee members,&hellip;
@@ -76,7 +75,7 @@
         <link href="https://dart.cast.uark.edu/stay-in-touch-with-dart/"/>
         <id>https://dart.cast.uark.edu/stay-in-touch-with-dart/</id>
 
-        <updated>2020-10-30T17:53:27-05:00</updated>
+        <updated>2020-11-05T16:16:23-06:00</updated>
             <summary>
                 <![CDATA[
                     Are you interested in Data Analytics that are Robust and Trusted? Join our email list to stay in the know&hellip;
@@ -98,7 +97,7 @@
         <id>https://dart.cast.uark.edu/dart-webinar-2020-oct-28/</id>
             <category term="DART Webinars"/>
 
-        <updated>2020-11-05T16:03:47-06:00</updated>
+        <updated>2020-11-05T16:16:07-06:00</updated>
             <summary>
                 <![CDATA[
                     Title: Welcome to DART Presenter: Jackson Cothren Date presented: October 28, 2020 Recording and slides available at: https://video.uark.edu/media/t/1_o4meqceh Dr. Jackson&hellip;
@@ -304,7 +303,7 @@
         <link href="https://dart.cast.uark.edu/about-dart/"/>
         <id>https://dart.cast.uark.edu/about-dart/</id>
 
-        <updated>2020-10-30T17:56:18-05:00</updated>
+        <updated>2020-11-05T16:15:51-06:00</updated>
             <summary>
                 <![CDATA[
                     The growing array of tools - powerful high-level programming languages, distributed data storage and computation, visualization tools, statistical modeling, and&hellip;
