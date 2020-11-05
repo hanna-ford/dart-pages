@@ -3,7 +3,7 @@
     <title>DART</title>
     <link href="https://dart.cast.uark.edu/feed.xml" rel="self" />
     <link href="https://dart.cast.uark.edu" />
-    <updated>2020-11-05T12:50:03-06:00</updated>
+    <updated>2020-11-05T12:55:47-06:00</updated>
     <author>
         <name>Hanna</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://dart.cast.uark.edu/dart-annual-all-hands-meeting/"/>
         <id>https://dart.cast.uark.edu/dart-annual-all-hands-meeting/</id>
+            <category term="Calendar"/>
 
-        <updated>2020-11-05T12:50:03-06:00</updated>
+        <updated>2020-11-05T12:55:47-06:00</updated>
             <summary>
                 <![CDATA[
                     The Annual All-hands Meeting and Poster Competition should be attended by all project faculty, students, industry partners, administrative committee members,&hellip;
