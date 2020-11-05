@@ -3,12 +3,46 @@
     <title>DART</title>
     <link href="https://dart.cast.uark.edu/feed.xml" rel="self" />
     <link href="https://dart.cast.uark.edu" />
-    <updated>2020-11-05T16:16:54-06:00</updated>
+    <updated>2020-11-05T16:29:51-06:00</updated>
     <author>
         <name>Hanna</name>
     </author>
     <id>https://dart.cast.uark.edu</id>
 
+    <entry>
+        <title>Privacy Policy</title>
+        <author>
+            <name>Hanna</name>
+        </author>
+        <link href="https://dart.cast.uark.edu/privacy-policy/"/>
+        <id>https://dart.cast.uark.edu/privacy-policy/</id>
+
+        <updated>2020-11-05T16:29:51-06:00</updated>
+            <summary>
+                <![CDATA[
+                    The University of Arkansas and the Arkansas Economic Development Commission are committed to safeguarding the privacy of all personal data&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The University of Arkansas and the Arkansas Economic Development Commission are committed to safeguarding the privacy of all personal data provided by students, employees, alumni, and other constituents, as well as contractors (collectively “<strong>data subjects</strong>”).</p>
+<p>Effective May 25, 2018, the European Union (“<strong>EU</strong>”) General Data Protection Regulation (“<strong>GDPR</strong>”) places additional obligations on organizations that control or process personally identifiable information about persons in Europe. The GDPR is designed to protect the privacy of data concerning a natural person that is collected or processed in or transferred out of the EU, and to regulate the data privacy practices of entities that offer goods or services in the EU. In its capacity as a data controller, the University collects, uses, and discloses data subjects’ information according to the following policy. </p>
+<p>The GDPR applies to entities both inside and outside the EU. In addition, the regulations apply to data about anyone present in the EU, regardless of whether they are a citizen or permanent resident of an EU country; for example, GDPR includes U.S. persons when their personal data is collected, stored and used in the EU or transferred from the EU.</p>
+<p>The GDPR defines “<strong>personal data</strong>” as follows:</p>
+<p>“…any information relating to an identified or identifiable natural person (“data subject”); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier (including information that is manually or automatically read, such as an IP address) or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.”</p>
+<p>Please visit the University of Arkansas Privacy Policy page for more information on how the University of Arkansas uses, manages, and protects personal data that may be subject to the GDPR.</p>
+<ul>
+<li><a href="https://www.uark.edu/privacy-policy/gdpr.php">https://www.uark.edu/privacy-policy/gdpr.php</a></li>
+</ul>
+<p>For more information on how the Arkansas Economic Development Commission uses, manages, and protects personal data, please visit:</p>
+<ul>
+<li><a href="https://www.arkansasedc.com/cookie-policy">https://www.arkansasedc.com/cookie-policy</a></li>
+</ul>
+<p>This privacy policy is intended to disclose to you our privacy practices in a manner that is easy to understand. If there is something you do not understand about our privacy practices, please feel free to contact Arkansas Economic Development Commission at <a href="mailto:info@arkansasedc.com">info@arkansasedc.com</a> or the University of Arkansas at <a href="mailto:uagdpr@uark.edu">uagdpr@uark.edu</a>.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>DART Monthly Webinar // Coordinated Cyber Infrastructure</title>
         <author>

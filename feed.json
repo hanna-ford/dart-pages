@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://dart.cast.uark.edu/privacy-policy/",
+            "url": "https://dart.cast.uark.edu/privacy-policy/",
+            "title": "Privacy Policy",
+            "summary": "The University of Arkansas and the Arkansas Economic Development Commission are committed to safeguarding the privacy of all personal data&hellip;",
+            "content_html": "<p>The University of Arkansas and the Arkansas Economic Development Commission are committed to safeguarding the privacy of all personal data provided by students, employees, alumni, and other constituents, as well as contractors (collectively “<strong>data subjects</strong>”).</p>\n<p>Effective May 25, 2018, the European Union (“<strong>EU</strong>”) General Data Protection Regulation (“<strong>GDPR</strong>”) places additional obligations on organizations that control or process personally identifiable information about persons in Europe. The GDPR is designed to protect the privacy of data concerning a natural person that is collected or processed in or transferred out of the EU, and to regulate the data privacy practices of entities that offer goods or services in the EU. In its capacity as a data controller, the University collects, uses, and discloses data subjects’ information according to the following policy. </p>\n<p>The GDPR applies to entities both inside and outside the EU. In addition, the regulations apply to data about anyone present in the EU, regardless of whether they are a citizen or permanent resident of an EU country; for example, GDPR includes U.S. persons when their personal data is collected, stored and used in the EU or transferred from the EU.</p>\n<p>The GDPR defines “<strong>personal data</strong>” as follows:</p>\n<p>“…any information relating to an identified or identifiable natural person (“data subject”); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier (including information that is manually or automatically read, such as an IP address) or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.”</p>\n<p>Please visit the University of Arkansas Privacy Policy page for more information on how the University of Arkansas uses, manages, and protects personal data that may be subject to the GDPR.</p>\n<ul>\n<li><a href=\"https://www.uark.edu/privacy-policy/gdpr.php\">https://www.uark.edu/privacy-policy/gdpr.php</a></li>\n</ul>\n<p>For more information on how the Arkansas Economic Development Commission uses, manages, and protects personal data, please visit:</p>\n<ul>\n<li><a href=\"https://www.arkansasedc.com/cookie-policy\">https://www.arkansasedc.com/cookie-policy</a></li>\n</ul>\n<p>This privacy policy is intended to disclose to you our privacy practices in a manner that is easy to understand. If there is something you do not understand about our privacy practices, please feel free to contact Arkansas Economic Development Commission at <a href=\"mailto:info@arkansasedc.com\">info@arkansasedc.com</a> or the University of Arkansas at <a href=\"mailto:uagdpr@uark.edu\">uagdpr@uark.edu</a>.</p>\n<p> </p>",
+            "author": {
+                "name": "Hanna"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-05T16:29:51-06:00",
+            "date_modified": "2020-11-05T16:29:51-06:00"
+        },
+        {
             "id": "https://dart.cast.uark.edu/dart-webinar-2020-nov-18/",
             "url": "https://dart.cast.uark.edu/dart-webinar-2020-nov-18/",
             "title": "DART Monthly Webinar // Coordinated Cyber Infrastructure",
