@@ -3,12 +3,34 @@
     <title>DART</title>
     <link href="https://dart.cast.uark.edu/feed.xml" rel="self" />
     <link href="https://dart.cast.uark.edu" />
-    <updated>2020-11-03T08:40:19-06:00</updated>
+    <updated>2020-11-05T12:50:03-06:00</updated>
     <author>
         <name>Hanna</name>
     </author>
     <id>https://dart.cast.uark.edu</id>
 
+    <entry>
+        <title>DART Annual All-hands Meeting</title>
+        <author>
+            <name>Hanna</name>
+        </author>
+        <link href="https://dart.cast.uark.edu/dart-annual-all-hands-meeting/"/>
+        <id>https://dart.cast.uark.edu/dart-annual-all-hands-meeting/</id>
+
+        <updated>2020-11-05T12:50:03-06:00</updated>
+            <summary>
+                <![CDATA[
+                    The Annual All-hands Meeting and Poster Competition should be attended by all project faculty, students, industry partners, administrative committee members,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The Annual All-hands Meeting and Poster Competition should be attended by all project faculty, students, industry partners, administrative committee members, evaluators, and external advisory board members.</p>
+<p>The annual meeting provides an opportunity for the project members to share their progress with the External Advisory Board and the Industry Advisory Board, as well as members of the Science Advisory Committee.</p>
+<p>The year 1 Annual Meeting will take place over two days during May 2021. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Stay in Touch with DART</title>
         <author>
