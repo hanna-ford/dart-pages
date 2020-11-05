@@ -3,7 +3,7 @@
     <title>DART</title>
     <link href="https://dart.cast.uark.edu/feed.xml" rel="self" />
     <link href="https://dart.cast.uark.edu" />
-    <updated>2020-11-05T12:55:47-06:00</updated>
+    <updated>2020-11-05T13:02:40-06:00</updated>
     <author>
         <name>Hanna</name>
     </author>
@@ -16,9 +16,9 @@
         </author>
         <link href="https://dart.cast.uark.edu/dart-annual-all-hands-meeting/"/>
         <id>https://dart.cast.uark.edu/dart-annual-all-hands-meeting/</id>
-            <category term="Calendar"/>
+            <category term="Events"/>
 
-        <updated>2020-11-05T12:55:47-06:00</updated>
+        <updated>2020-11-05T13:01:31-06:00</updated>
             <summary>
                 <![CDATA[
                     The Annual All-hands Meeting and Poster Competition should be attended by all project faculty, students, industry partners, administrative committee members,&hellip;
@@ -60,9 +60,10 @@
         </author>
         <link href="https://dart.cast.uark.edu/dart-monthly-webinar-welcome-to-dart-presented-by-dr-jackson-cothren-oct-28-2020/"/>
         <id>https://dart.cast.uark.edu/dart-monthly-webinar-welcome-to-dart-presented-by-dr-jackson-cothren-oct-28-2020/</id>
+            <category term="Events"/>
             <category term="DART Webinars"/>
 
-        <updated>2020-10-29T12:40:08-05:00</updated>
+        <updated>2020-11-05T13:01:42-06:00</updated>
             <summary>
                 <![CDATA[
                     Title: Welcome to DART Presenter: Jackson Cothren Date presented: October 28, 2020 Recording and slides available at: https://video.uark.edu/media/t/1_o4meqceh Dr. Jackson&hellip;
@@ -86,9 +87,10 @@
         </author>
         <link href="https://dart.cast.uark.edu/monthly-webinar-schedule/"/>
         <id>https://dart.cast.uark.edu/monthly-webinar-schedule/</id>
+            <category term="Events"/>
             <category term="DART Webinars"/>
 
-        <updated>2020-10-30T17:54:35-05:00</updated>
+        <updated>2020-11-05T13:02:40-06:00</updated>
             <summary>
                 <![CDATA[
                     The DART Monthly Webinar Series provides an opportunity for project faculty and students to share short presentations about their work&hellip;
@@ -130,7 +132,7 @@
 <h2 data-ogsb="white"><strong><span data-ogsc="black">2021</span></strong></h2>
 </div>
 <div>
-<p data-ogsb="white"><span data-ogsc="black" data-ogsb="rgb(255, 255, 128)"><strong>January 27 </strong>  |   Education, Outreach, and Workforce Development</span></p>
+<p data-ogsb="white"><span data-ogsc="black" data-ogsb="rgb(255, 255, 128)"><strong>January 27 </strong>  |   Data Life Cycle and Curation </span></p>
 </div>
 <div>
 <p data-ogsb="white"><span data-ogsc="black"><strong>February 24</strong>   |   Social Awareness</span></p>
@@ -145,7 +147,7 @@
 <p data-ogsb="white"><span data-ogsc="black"><strong>May 24 – 25</strong>   |   Annual Meeting </span></p>
 </div>
 <div>
-<p data-ogsb="white"><span data-ogsc="black" data-ogsb="rgb(255, 255, 128)"><strong>June XX</strong>   |   TBD</span></p>
+<p data-ogsb="white"><span data-ogsc="black" data-ogsb="rgb(255, 255, 128)"><strong>June XX</strong>   |   Education and Outreach</span></p>
 </div>
 <div>
 <p data-ogsb="white"><span data-ogsc="black" data-ogsb="rgb(255, 255, 128)"><strong>July XX</strong>   |   TBD</span></p>
