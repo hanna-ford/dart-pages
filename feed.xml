@@ -3,7 +3,7 @@
     <title>DART</title>
     <link href="https://dart.cast.uark.edu/feed.xml" rel="self" />
     <link href="https://dart.cast.uark.edu" />
-    <updated>2021-01-25T10:57:49-06:00</updated>
+    <updated>2021-01-25T11:50:42-06:00</updated>
     <author>
         <name>Hanna</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://dart.cast.uark.edu/dart-webinar-2021-jan-27/</id>
             <category term="DART Webinars"/>
 
-        <updated>2021-01-25T10:16:39-06:00</updated>
+        <updated>2021-01-25T11:50:42-06:00</updated>
             <summary>
                 <![CDATA[
                     Title: First Steps toward a Data Washing Machine Presenter: John Talburt and David Ussery Date presented: January 27, 2021 Data&hellip;
@@ -32,7 +32,8 @@
 <div> -->
 <p>Data has a life cycle from planning to acquiring, cleansing, storing &amp; sharing, integrating, application, and disposing. While AI and machine learning have taken the application of data to new levels, the other phases remain largely manually mediated processes. The research goal for the Data Life Cycle and Curation thrust is to develop fully automated processes for the other phases of the data life cycle. The presentation today describes some of the progress of the research finding ways to automate data cleansing and data integration phases of the data life cycle.</p>
 <p><strong>Presenter's Bios: </strong><br><strong>Dr. John Talburt, </strong>IQCP, CDMP is the Acxiom Chair of Information Quality at the University of Arkansas at Little Rock (UALR). Dr. Talburt also serves as coordinator of the Computer and Information Sciences PhD Program, and Executive Director of the Center for Advanced Research in Entity Resolution and Information Quality. In addition, Dr. Talburt is a member of the U.S. Technical Advisory Group to the International Organization for Standardization (ISO) Technical Committee 184, Subcommittee 4, Working Group 13 developing the ISO 8000 Industrial Data Quality Standard. Dr. Talburt is also the lead consultant for Data Quality Management and Data Governance for Noetic Partners, Inc. and previously served as the Chief Scientist for Black Oak Analytics, Inc., an Arkansas-based company specializing in data quality and entity identity information management solutions. Prior to his appointment at UA Little Rock he was the leader for research and development and product innovation at Acxiom Corporation, a global leader in information management and customer data integration. Professor Talburt is an inventor for several patents related to customer data integration and the author of numerous research papers and articles on information quality and entity resolution.</p>
-<p><strong>Dr. David Ussery</strong> has been working with bioinformatic analysis of bacterial genomes since the first sequence was published in 1995, and published one of the first text books in the field of Comparative Genomics. His team has published more than 200 papers, which have been cited more than 15,000 times, including two papers with more than a thousand citations. He has been a co-applicant on grants funded totaling more than $30 million, since 2010. His popular course on Comparative Genomics, taught at The Technical University of Denmark from 1997 -2015, is now taught in the Fall semesters at the University of Arkansas for Medical Sceinces (UAMS); one-week workshops based on this course have been held in North and South America, Europe, Asia, and Africa. Prof. Usseryhas collaborative projects with groups in Belgium, Denmark, France, Germany, The Netherlands, Norway, Spain, Sweden, and the UK, as well as in the U.S.</p>
+<p><strong>Dr. David Ussery</strong> has been working with bioinformatic analysis of bacterial genomes since the first sequence was published in 1995, and published one of the first text books in the field of Comparative Genomics. His team has published more than 200 papers, which have been cited more than 15,000 times, including two papers with more than a thousand citations. He has been a co-applicant on grants funded totaling more than $30 million, since 2010. His popular course on Comparative Genomics, taught at The Technical University of Denmark from 1997 -2015, is now taught in the Fall semesters at the University of Arkansas for Medical Sceinces (UAMS); one-week workshops based on this course have been held in North and South America, Europe, Asia, and Africa. Prof. Usseryhas collaborative projects with groups in Belgium, Denmark, France, Germany, The Netherlands, Norway, Spain, Sweden, and the UK, as well as in the U.S. Learn more about Dr. Ussery's work here: <a href="https://armoneyandpolitics.com/unlocking-the-human-genome-dr-david-ussery-uams/">https://armoneyandpolitics.com/unlocking-the-human-genome-dr-david-ussery-uams/</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
