@@ -3,14 +3,14 @@
     <title>DART</title>
     <link href="https://dart.cast.uark.edu/feed.xml" rel="self" />
     <link href="https://dart.cast.uark.edu" />
-    <updated>2021-02-10T10:05:56-06:00</updated>
+    <updated>2021-02-10T10:42:43-06:00</updated>
     <author>
         <name>Hanna</name>
     </author>
     <id>https://dart.cast.uark.edu</id>
 
     <entry>
-        <title>DART Monthly Webinar // Social Awareness</title>
+        <title>DART Monthly Webinar // Socially Aware Data Analytics</title>
         <author>
             <name>Hanna</name>
         </author>
@@ -18,7 +18,7 @@
         <id>https://dart.cast.uark.edu/dart-webinar-2021-feb-24/</id>
             <category term="DART Webinars"/>
 
-        <updated>2021-02-10T10:05:36-06:00</updated>
+        <updated>2021-02-10T10:42:43-06:00</updated>
             <summary>
                 <![CDATA[
                     Title: Socially Aware Data Analytics Presenter: Chenyi Hu, Xiuzhen Huang, Toby Klein, Qinghua Li, Zhenghui Sha, Ningning Wu, Xintao Wu,&hellip;
@@ -188,7 +188,7 @@
         </content>
     </entry>
     <entry>
-        <title>DART Monthly Webinar // Welcome to DART, presented by Dr. Jackson Cothren (Oct 28 2020) </title>
+        <title>DART Monthly Webinar // Welcome to DART</title>
         <author>
             <name>Hanna</name>
         </author>
@@ -196,7 +196,7 @@
         <id>https://dart.cast.uark.edu/dart-webinar-2020-oct-28/</id>
             <category term="DART Webinars"/>
 
-        <updated>2020-11-20T12:26:42-06:00</updated>
+        <updated>2021-02-10T10:42:31-06:00</updated>
             <summary>
                 <![CDATA[
                     Title: Welcome to DART Presenter: Jackson Cothren Date presented: October 28, 2020 Dr. Jackson Cothren will present an overview of&hellip;
