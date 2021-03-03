@@ -3,12 +3,46 @@
     <title>DART</title>
     <link href="https://dart.cast.uark.edu/feed.xml" rel="self" />
     <link href="https://dart.cast.uark.edu" />
-    <updated>2021-03-03T10:50:46-06:00</updated>
+    <updated>2021-03-03T10:56:02-06:00</updated>
     <author>
         <name>Hanna</name>
     </author>
     <id>https://dart.cast.uark.edu</id>
 
+    <entry>
+        <title>DART Monthly Webinar // Socially Media and Networks</title>
+        <author>
+            <name>Hanna</name>
+        </author>
+        <link href="https://dart.cast.uark.edu/dart-webinar-2021-mar-31/"/>
+        <id>https://dart.cast.uark.edu/dart-webinar-2021-mar-31/</id>
+            <category term="DART Webinars"/>
+
+        <updated>2021-03-03T10:56:02-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Title: Social Media and Networks Research Theme Presenter(s): Date presented: March 31, 2021 Description: TBD Presenter's Bios: 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Title:</strong> Social Media and Networks Research Theme<br><strong>Presenter(s):</strong> <br><strong>Date presented:</strong> March 31, 2021</p>
+<!-- <div style="position: relative; padding-bottom: 70%;"><div class="post__iframe"><iframe loading="lazy" width="600" height="300" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1315742/sp/131574200/embedIframeJs/uiconf_id/40133072/partner_id/1315742?iframeembed=true&amp;playerId=kaltura_player&amp;entry_id=1_j2l3s8gl&amp;flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&amp;wid=1_213c7bax" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" data-mce-fragment="1"></iframe></div></div>
+<div> -->
+<p><strong>Description: </strong>TBD</p>
+<div> </div>
+<div><strong>Webinar FAQs:</strong></div>
+<ul>
+<li>Webinars will be hosted using the University of Arkansas Zoom account which requires that you have a Zoom account to join (free accounts are available <a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2Ffreesignup%2F&amp;data=04%7C01%7Chlford%40uark.edu%7Ccb099b72d17b4c7ecb9808d87a890427%7C79c742c4e61c4fa5be89a3cb566a80d1%7C0%7C0%7C637394076780531346%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=aYE0ijsuZDFgIsdpedinrNjXqMZYeh3GmH3RxT9G4uU%3D&amp;reserved=0" originalsrc="https://zoom.us/freesignup/" shash="f9SCi3kayPGuy1zCNaO7qWZQWDFZ2B8OeKsA8U+mkWDuzQEtdazdxl6l5Y7SL36V6/CNDokXf/FrPAMvbKHyuALZEGfE2u2LMVaPp5VeqpbUotV9ud3IlTIytWv0rRufmJpxfDY4LlTyx2INg8/wga8A2c7fpIfSQGZAwb6/c+o=" id="LPlnk">https://zoom.us/freesignup/</a>).</li>
+<li data-ogsb="white">All webinars will be recorded and made available after presentation. Links will be posted on this site.</li>
+<li data-ogsb="white">If you would like to receive notices for future webinars are not a DART student or faculty member, sign up <a href="https://dart.cast.uark.edu/stay-in-touch-with-dart/">here</a>.</li>
+</ul>
+<p><strong>Presenter's Bios: </strong><br><br><br></p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>DART Monthly Webinar // Socially Aware Data Analytics</title>
         <author>
@@ -18,7 +52,7 @@
         <id>https://dart.cast.uark.edu/dart-webinar-2021-feb-24/</id>
             <category term="DART Webinars"/>
 
-        <updated>2021-03-03T10:50:46-06:00</updated>
+        <updated>2021-03-03T10:55:32-06:00</updated>
             <summary>
                 <![CDATA[
                     Title: Socially Aware Data Analytics Presenter: Chenyi Hu, Xiuzhen Huang, Toby Klein, Qinghua Li, Zhenghui Sha, Ningning Wu, Xintao Wu,&hellip;
@@ -29,17 +63,9 @@
                 <p><strong>Title:</strong> Socially Aware Data Analytics<br><strong>Presenter:</strong> Chenyi Hu, Xiuzhen Huang, Toby Klein, Qinghua Li, Zhenghui Sha, Ningning Wu, Xintao Wu, Anna Zajicek, and Lu Zhang<br><strong>Date presented:</strong> February 24, 2021</p>
 <div style="position: relative; padding-bottom: 70%;"><div class="post__iframe"><iframe loading="lazy" width="600" height="300" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" id="kaltura_player" src="https://cdnapisec.kaltura.com/p/1315742/sp/131574200/embedIframeJs/uiconf_id/40133072/partner_id/1315742?iframeembed=true&amp;playerId=kaltura_player&amp;entry_id=1_j2l3s8gl&amp;flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&amp;wid=1_213c7bax" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" data-mce-fragment="1"></iframe></div></div>
 <div>
+<p> </p>
 <p><strong>Description: </strong>There are increasing concerns from the public on privacy, fairness, safety, and robustness issues of data analytics, data collection, data sharing, and decision making. The social awareness thrust team will present their cutting-edge research on socially aware data analytics that can address social concerns and enable big data analytics to promote social good and prevent social harm.</p>
 <div> </div>
-<div><strong>Webinar FAQs:</strong></div>
-<ul>
-<li style="list-style-type: none;">
-<ul><!-- <li>Webinars will be hosted using the University of Arkansas Zoom account which requires that you have a Zoom account to join (free accounts are available <a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2Ffreesignup%2F&amp;data=04%7C01%7Chlford%40uark.edu%7Ccb099b72d17b4c7ecb9808d87a890427%7C79c742c4e61c4fa5be89a3cb566a80d1%7C0%7C0%7C637394076780531346%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=aYE0ijsuZDFgIsdpedinrNjXqMZYeh3GmH3RxT9G4uU%3D&amp;reserved=0" originalsrc="https://zoom.us/freesignup/" shash="f9SCi3kayPGuy1zCNaO7qWZQWDFZ2B8OeKsA8U+mkWDuzQEtdazdxl6l5Y7SL36V6/CNDokXf/FrPAMvbKHyuALZEGfE2u2LMVaPp5VeqpbUotV9ud3IlTIytWv0rRufmJpxfDY4LlTyx2INg8/wga8A2c7fpIfSQGZAwb6/c+o=" id="LPlnk">https://zoom.us/freesignup/</a>).</li>
-<li data-ogsb="white">All webinars will be recorded and made available after presentation. Links will be posted on this site.</li>
-<li data-ogsb="white">If you would like to receive notices for future webinars are not a DART student or faculty member, sign up <a href="https://dart.cast.uark.edu/stay-in-touch-with-dart/">here</a>.</li>
-</ul> --></ul>
-</li>
-</ul>
 <p><strong>Presenter's Bios: </strong><br><strong>Dr. Chenyi Hu</strong>, Professor of Computer Science Department at University of Central Arkansas. He has received multiple grant awards from NSF and other federal funding agencies in supporting his research work. His publications are on interval computing and applications in data analysis. His recent focus is is on socially aware crowdsourcing. Prior to chairing Computer Science Department at UCA from 2002-2013, he was a tenured professor at the University of Houston-Downtown.  He also served as a commissioner for the ABET Computing Accreditation Commission from 2016-2019.</p>
 <p><br><strong>Dr. Xiuzhen Huang</strong> (Co-Lead), Ph.D., Professor of Computer Science, Founding Director, Arkansas Artificial Intelligence (AI) Campus; Founding Director, Joint Translational Research Lab of Arkansas State University and St. Bernards Medical Center Internal Medicine Residency Program; Principal Investigator, Arkansas State University Bioinformatics Lab. Dr. Xiuzhen Huang’s many contributions to science include: bioinformatics and biomedical informatics; machine learning, artificial intelligence, and deep learning; and algorithm design and development, parameterized computation and complexity, and the theory of computation. </p>
 <p><br><strong>Toby Klein</strong>, a first year PhD student in the Public Policy program at the University of Arkansas, specializing in Social Justice. She is a mixed methodologist, with research backgrounds in neuroscience and public health. Her current research interests explore the impact of anti-hate legislation in the Southern United States, and she is excited to assist on this important project.</p>
@@ -402,34 +428,6 @@
 <li>If a GRA students graduates and/or leaves the project, PIs can name other students who are qualified to work on DART. PIs are required to notify AEDC and get approval before new students receive GRA funds.</li>
 </ul>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Data Analytics that are Robust and Trusted</title>
-        <author>
-            <name>Hanna</name>
-        </author>
-        <link href="https://dart.cast.uark.edu/about-dart/"/>
-        <id>https://dart.cast.uark.edu/about-dart/</id>
-
-        <updated>2020-11-05T16:15:51-06:00</updated>
-            <summary>
-                <![CDATA[
-                    The growing array of tools - powerful high-level programming languages, distributed data storage and computation, visualization tools, statistical modeling, and&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>The growing array of tools - powerful high-level programming languages, distributed data storage and computation, visualization tools, statistical modeling, and machine learning - along with a staggering array of big data sources, has the potential to empower people to make better and more timely decisions in science, business, and society. However, there remain fundamental barriers to practical application and acceptance of data analytics, any one of which could derail or impede its full development and contributions.</p>
-<ul>
-<li><strong>Big data management:</strong> Before data streams and datasets can be used in the many kinds of learning models, they are often manually curated, or at the least, curated for a specific problem. We still rely on hosts of analysts to assess the content and quality of source data, engineer features, define and transform data models, annotate training data, and track data processes and movement.</li>
-<li><strong>Security and privacy:</strong> Government agencies and private entities collect and integrate large amounts of data, process it in real-time, and deliver products or services based on these data to consumers and constituents. There are increasing worries that both the acquisition and subsequent application of big data analytics are not secure or well-managed. This can create a risk of privacy breaches, enable discrimination, and negatively impact diversity in our society.</li>
-<li><strong>Model interpretability:</strong> Machine learning models often sacrifice interpretability for predictive power and are difficult to generalize beyond their training and test data. But interpretability and generalizability of trained models is critical in many decision-making systems and/or processes, especially when learning from multi-modal and heterogeneous big data sources. There is a continuing to need to better balance the predictive power of complex machine learning models with the strengths of statistical models to better configure deep learning models to allow humans to see the reasoning behind the predictions.</li>
-</ul>
-<p>DART research will systematically investigate key aspects of these three barriers and develop novel, integrated solutions to address them by operating as a true, multi-institution, multi-disciplinary data science research center, in which faculty and students from campuses across the state work together on targeted problems important to the research community and the economy of Arkansas.</p>
-<h4>Participating Institutions | <span style="font-size: 16px; color: dimgrey;"> Project Component: </span><span style="font-size: 16px; color: #ed5252;"><i class="fas fa-square"></i> Education </span><span style="font-size: 16px; color: #a7c639;"><i class="fas fa-square"></i> Research </span><span style="font-size: 16px; color: #129dcd;"><i class="fas fa-square"></i> Education and Research </span></h4>
-<div class="container-fluid"><div class="post__iframe"><iframe loading="lazy" width="900" height="592" frameborder="0" scrolling="no" marginheight="10px;" marginwidth="0" title="DART Collaborating Institutions" src="https://uark.maps.arcgis.com/apps/Embed/index.html?webmap=816ca6944c734cbb920b04cd37791b14&amp;extent=-97.9509,32.0503,-87.0964,37.5362&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;disable_scroll=true&amp;theme=light"></iframe></div></div>
             ]]>
         </content>
     </entry>
