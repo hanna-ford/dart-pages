@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>DART</title>
-    <link href="https://dart.cast.uark.edu/feed.xml" rel="self" />
-    <link href="https://dart.cast.uark.edu" />
+    <link href="https://dartproject.org/feed.xml" rel="self" />
+    <link href="https://dartproject.org" />
     <updated>2021-04-29T19:18:42-05:00</updated>
     <author>
         <name>Hanna</name>
     </author>
-    <id>https://dart.cast.uark.edu</id>
+    <id>https://dartproject.org</id>
 
     <entry>
         <title>DART Monthly Webinar // Learning-based Approaches to Data-driven Predictions</title>
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://dart.cast.uark.edu/dart-webinar-2021-apr-28/"/>
-        <id>https://dart.cast.uark.edu/dart-webinar-2021-apr-28/</id>
+        <link href="https://dartproject.org/dart-webinar-2021-apr-28/"/>
+        <id>https://dartproject.org/dart-webinar-2021-apr-28/</id>
             <category term="DART Webinars"/>
 
         <updated>2021-04-07T14:44:59-05:00</updated>
@@ -56,8 +56,8 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://dart.cast.uark.edu/dart-webinar-2021-mar-31/"/>
-        <id>https://dart.cast.uark.edu/dart-webinar-2021-mar-31/</id>
+        <link href="https://dartproject.org/dart-webinar-2021-mar-31/"/>
+        <id>https://dartproject.org/dart-webinar-2021-mar-31/</id>
             <category term="DART Webinars"/>
 
         <updated>2021-04-07T12:55:42-05:00</updated>
@@ -99,8 +99,8 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://dart.cast.uark.edu/dart-webinar-2021-feb-24/"/>
-        <id>https://dart.cast.uark.edu/dart-webinar-2021-feb-24/</id>
+        <link href="https://dartproject.org/dart-webinar-2021-feb-24/"/>
+        <id>https://dartproject.org/dart-webinar-2021-feb-24/</id>
             <category term="DART Webinars"/>
 
         <updated>2021-04-07T12:41:38-05:00</updated>
@@ -137,8 +137,8 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://dart.cast.uark.edu/dart-webinar-2021-jan-27/"/>
-        <id>https://dart.cast.uark.edu/dart-webinar-2021-jan-27/</id>
+        <link href="https://dartproject.org/dart-webinar-2021-jan-27/"/>
+        <id>https://dartproject.org/dart-webinar-2021-jan-27/</id>
             <category term="DART Webinars"/>
 
         <updated>2021-01-29T12:50:50-06:00</updated>
@@ -166,8 +166,8 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://dart.cast.uark.edu/privacy-policy/"/>
-        <id>https://dart.cast.uark.edu/privacy-policy/</id>
+        <link href="https://dartproject.org/privacy-policy/"/>
+        <id>https://dartproject.org/privacy-policy/</id>
 
         <updated>2020-11-05T16:29:51-06:00</updated>
             <summary>
@@ -200,8 +200,8 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://dart.cast.uark.edu/dart-webinar-2020-nov-18/"/>
-        <id>https://dart.cast.uark.edu/dart-webinar-2020-nov-18/</id>
+        <link href="https://dartproject.org/dart-webinar-2020-nov-18/"/>
+        <id>https://dartproject.org/dart-webinar-2020-nov-18/</id>
             <category term="DART Webinars"/>
 
         <updated>2020-11-20T12:29:26-06:00</updated>
@@ -230,8 +230,8 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://dart.cast.uark.edu/annual-meeting/"/>
-        <id>https://dart.cast.uark.edu/annual-meeting/</id>
+        <link href="https://dartproject.org/annual-meeting/"/>
+        <id>https://dartproject.org/annual-meeting/</id>
             <category term="Events"/>
 
         <updated>2020-11-05T16:16:29-06:00</updated>
@@ -253,8 +253,8 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://dart.cast.uark.edu/stay-in-touch-with-dart/"/>
-        <id>https://dart.cast.uark.edu/stay-in-touch-with-dart/</id>
+        <link href="https://dartproject.org/stay-in-touch-with-dart/"/>
+        <id>https://dartproject.org/stay-in-touch-with-dart/</id>
 
         <updated>2020-11-05T16:16:23-06:00</updated>
             <summary>
@@ -274,8 +274,8 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://dart.cast.uark.edu/dart-webinar-2020-oct-28/"/>
-        <id>https://dart.cast.uark.edu/dart-webinar-2020-oct-28/</id>
+        <link href="https://dartproject.org/dart-webinar-2020-oct-28/"/>
+        <id>https://dartproject.org/dart-webinar-2020-oct-28/</id>
             <category term="DART Webinars"/>
 
         <updated>2021-02-10T10:42:31-06:00</updated>
@@ -301,8 +301,8 @@
         <author>
             <name>Hanna</name>
         </author>
-        <link href="https://dart.cast.uark.edu/monthly-webinar-schedule/"/>
-        <id>https://dart.cast.uark.edu/monthly-webinar-schedule/</id>
+        <link href="https://dartproject.org/monthly-webinar-schedule/"/>
+        <id>https://dartproject.org/monthly-webinar-schedule/</id>
             <category term="Events"/>
             <category term="DART Webinars"/>
 
@@ -325,7 +325,7 @@
 <ul>
 <li>Webinars will be hosted using the University of Arkansas Zoom account which requires that you have a Zoom account to join (free accounts are available <a href="https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2Ffreesignup%2F&amp;data=04%7C01%7Chlford%40uark.edu%7Ccb099b72d17b4c7ecb9808d87a890427%7C79c742c4e61c4fa5be89a3cb566a80d1%7C0%7C0%7C637394076780531346%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=aYE0ijsuZDFgIsdpedinrNjXqMZYeh3GmH3RxT9G4uU%3D&amp;reserved=0" originalsrc="https://zoom.us/freesignup/" shash="f9SCi3kayPGuy1zCNaO7qWZQWDFZ2B8OeKsA8U+mkWDuzQEtdazdxl6l5Y7SL36V6/CNDokXf/FrPAMvbKHyuALZEGfE2u2LMVaPp5VeqpbUotV9ud3IlTIytWv0rRufmJpxfDY4LlTyx2INg8/wga8A2c7fpIfSQGZAwb6/c+o=" id="LPlnk">https://zoom.us/freesignup/</a>).</li>
 <li data-ogsb="white"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">All webinars will be recorded and made available after presentation. Links will be posted on this site.</span></li>
-<li data-ogsb="white">If you would like to receive notices for future webinars are not a DART student or faculty member, sign up <a href="https://dart.cast.uark.edu/stay-in-touch-with-dart/">here</a>.</li>
+<li data-ogsb="white">If you would like to receive notices for future webinars are not a DART student or faculty member, sign up <a href="https://dartproject.org/stay-in-touch-with-dart/">here</a>.</li>
 </ul>
 </div>
 <div class="post__toc">
@@ -339,16 +339,16 @@
 <h3 id="2021">2021 Webinars</h3>
 <div>
 <div>
-<p data-ogsb="white"><span data-ogsc="black"><strong>January 27</strong>   |   <a href="https://dart.cast.uark.edu/dart-webinar-2021-jan-27/">First Steps toward a Data Washing Machine, presented by Data Curation and Life Cycle CoLeads</a></span></p>
+<p data-ogsb="white"><span data-ogsc="black"><strong>January 27</strong>   |   <a href="https://dartproject.org/dart-webinar-2021-jan-27/">First Steps toward a Data Washing Machine, presented by Data Curation and Life Cycle CoLeads</a></span></p>
 </div>
 <div>
-<p data-ogsb="white"><span data-ogsc="black"><strong>February 24</strong> |   <a href="https://dart.cast.uark.edu/dart-webinar-2021-feb-24/">Socially Aware Data Analytics, presented by Social Awareness CoLeads</a></span></p>
+<p data-ogsb="white"><span data-ogsc="black"><strong>February 24</strong> |   <a href="https://dartproject.org/dart-webinar-2021-feb-24/">Socially Aware Data Analytics, presented by Social Awareness CoLeads</a></span></p>
 </div>
 <div>
-<p data-ogsb="white"><span data-ogsc="black"><strong>March 31</strong>   |   <a href="https://dart.cast.uark.edu/dart-webinar-2021-mar-31/">Social Media and Networks, presented by Social Media and Networks CoLeads</a></span></p>
+<p data-ogsb="white"><span data-ogsc="black"><strong>March 31</strong>   |   <a href="https://dartproject.org/dart-webinar-2021-mar-31/">Social Media and Networks, presented by Social Media and Networks CoLeads</a></span></p>
 </div>
 <div>
-<p data-ogsb="white"><span data-ogsc="black"><strong>April 28</strong>   |   <a href="https://dart.cast.uark.edu/dart-webinar-2021-apr-28/">Learning and Prediction, presented by Learning and Predication CoLeads</a></span></p>
+<p data-ogsb="white"><span data-ogsc="black"><strong>April 28</strong>   |   <a href="https://dartproject.org/dart-webinar-2021-apr-28/">Learning and Prediction, presented by Learning and Predication CoLeads</a></span></p>
 </div>
 <div>
 <p data-ogsb="white"><span data-ogsc="black"><strong>May 18/20</strong>  |   Annual All-Hands Meeting</span></p>
